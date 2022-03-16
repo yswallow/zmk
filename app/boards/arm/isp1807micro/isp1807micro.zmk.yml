@@ -1,0 +1,10 @@
+file_format: "1"
+id: isp1807micro
+name: ISP1807Micro
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://ssci.to/6939
+exposes: [pro_micro]
